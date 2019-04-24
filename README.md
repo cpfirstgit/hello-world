@@ -1,2 +1,2 @@
 # hello-world
-this is first git journal
+this is first git journey
